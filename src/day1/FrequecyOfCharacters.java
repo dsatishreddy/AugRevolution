@@ -1,4 +1,4 @@
-package augRev;
+package day1;
 
 import java.util.Map;
 import java.util.function.Function;

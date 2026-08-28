@@ -1,4 +1,4 @@
-package augRev;
+package day1;
 
 import java.util.stream.Collectors;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package augRev;
+package day2;
 
 import java.util.Arrays;
 
